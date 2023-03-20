@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * A c proram
- * to prints with (put) function
- * to also Return 0
+ * main - Entry point
+ *
+ * Description: A C program that prints with put function
+ *
+ * Return: Always 0 (Success)
 */
 
 int main(void)
