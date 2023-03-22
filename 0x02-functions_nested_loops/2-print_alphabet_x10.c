@@ -1,4 +1,4 @@
-#include "print_alphabet_x10.h"
+#include "main.h"
 
 /**
  * print_alphabet_x10 - to print alphabet 10x
