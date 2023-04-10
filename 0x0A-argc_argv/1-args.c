@@ -7,13 +7,13 @@
  * @argc: holds number of arguments passed
  * @argv: an array pointer to hold the argument passed
  *
- * Return: 0
+ * Return: 0 (Success)
 */
 
 int main(int argc, char __attribute__((unused)) *argv[])
 {
     int i = 0, m;
-
+    
     while (i < argc)
     {
         m = i;
