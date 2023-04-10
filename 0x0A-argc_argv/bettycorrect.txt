@@ -1,0 +1,27 @@
+
+========== 0-whatsmyname.c ==========
+0-whatsmyname.c:1: ERROR: DOS line endings
+0-whatsmyname.c:2: ERROR: DOS line endings
+0-whatsmyname.c:3: ERROR: DOS line endings
+0-whatsmyname.c:4: ERROR: trailing whitespace
+0-whatsmyname.c:5: ERROR: trailing whitespace
+0-whatsmyname.c:6: ERROR: trailing whitespace
+0-whatsmyname.c:7: ERROR: trailing whitespace
+0-whatsmyname.c:8: ERROR: trailing whitespace
+0-whatsmyname.c:9: ERROR: trailing whitespace
+0-whatsmyname.c:10: ERROR: trailing whitespace
+0-whatsmyname.c:11: ERROR: DOS line endings
+0-whatsmyname.c:12: ERROR: DOS line endings
+0-whatsmyname.c:13: ERROR: DOS line endings
+0-whatsmyname.c:14: ERROR: DOS line endings
+0-whatsmyname.c:15: ERROR: DOS line endings
+0-whatsmyname.c:15: WARNING: please, no spaces at the start of a line
+0-whatsmyname.c:16: ERROR: DOS line endings
+0-whatsmyname.c:17: ERROR: DOS line endings
+0-whatsmyname.c:17: WARNING: please, no spaces at the start of a line
+0-whatsmyname.c:18: ERROR: DOS line endings
+0-whatsmyname.c:18: WARNING: please, no spaces at the start of a line
+0-whatsmyname.c:19: ERROR: DOS line endings
+0-whatsmyname.c:20: ERROR: DOS line endings
+total: 20 errors, 3 warnings, 20 lines checked
+main

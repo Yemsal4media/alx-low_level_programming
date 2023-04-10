@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib>
+#include <stdlib.h>
 
 /**
  * main -  program that print a number of argument, 
@@ -14,10 +14,10 @@ int main(int argc, char __attribute__((unused)) *argv[])
 {
     int i = 0, m;
 
-    while (i < argv)
+    while (i < argc)
     {
         m = i;
-        i++
+        i++;
     }
     printf("%d\n", m);
     return (0);
