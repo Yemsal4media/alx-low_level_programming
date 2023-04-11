@@ -7,7 +7,7 @@
  *  @argc: holds the number of argument passed
  *  @argv: arrays pointer
  *
- *  Return: 0 (success)
+ *  Return: Always 0 (success)
  */
 
 int main(int argc, char *argv[])
