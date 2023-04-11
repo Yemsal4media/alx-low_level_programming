@@ -45,9 +45,9 @@ int main(int argc, char *argv[])
 		sum = 0;
 		for (i = 1; i < argc; i++)
 		{
-			if (isNum(argv[i] == 0)
+			if (isNum(argv[i]) == 0)
 			{
-				sum += atoi(agv[i]);
+				sum += atoi(argv[i]);
 			}
 			else
 			{
@@ -58,4 +58,4 @@ int main(int argc, char *argv[])
 		printf("%dd\n", sum);
 	}
 	return (0);
-}	
+}
