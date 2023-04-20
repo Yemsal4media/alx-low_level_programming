@@ -8,7 +8,7 @@
  *
  * Description: to perform a operation between the two numbers
  *              taking 4 arguments, 2 int variables plus an operator
- *         
+ *
  * @argc: argument counter
  * @argv: argument vector
  *
@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 	}
 
 	num1 = atoi(argv[1]);
-	num2 = atoi(argv[3]); 
+	num2 = atoi(argv[3]);
 	operator = argv[2];
 
 	if (get_op_func(operator) == NULL || operator[1] != '\0')
