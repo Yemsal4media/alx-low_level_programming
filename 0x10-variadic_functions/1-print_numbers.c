@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_numbers -  This is a function that print numbers, 
+ * print_numbers -  This is a function that print numbers,
  *                  followed by a new line.
  *
  * @separator: pointer to constant separator
