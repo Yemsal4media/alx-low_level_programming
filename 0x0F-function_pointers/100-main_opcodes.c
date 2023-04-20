@@ -6,8 +6,8 @@
  * main - Entry point
  *
  * Description: A program that prints the opcodes
- *              of its own main function.
- *             
+ *		of its own main function.
+ *
  * @argc: argument counter
  * @argv: argument vector
  *
